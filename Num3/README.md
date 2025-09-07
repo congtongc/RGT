@@ -247,3 +247,9 @@ void parallel_sort() {
 본 구현은 멀티스레딩과 함수형 프로그래밍을 결합하여 대용량 데이터 처리를 효율적으로 수행하는 방법을 보여줍니다. `ParallelProcessor<T>` 클래스는 이미지 처리뿐만 아니라 다양한 데이터 처리 작업에 활용할 수 있는 범용적인 병렬 처리 프레임워크를 제공합니다.
 
 향후 개선 방향으로는 작업 스케줄링 최적화, 캐시 효율성 향상, 더 다양한 함수형 연산 지원 등을 고려할 수 있습니다.
+
+## 터미널 출력
+<img width="1036" height="512" alt="Num3" src="https://github.com/user-attachments/assets/7f94b179-1d1d-409f-8a2b-92f599505b09" />
+
+## 실행 영상
+https://github.com/user-attachments/assets/f3cd7650-a5ae-4f1b-b0cb-fd1d133300fd
