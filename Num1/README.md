@@ -245,3 +245,10 @@ int main() {
 본 구현은 스마트 포인터를 활용하여 안전하고 효율적인 로그 파일 관리 시스템을 구현했습니다. `std::unique_ptr`를 사용하여 자원 누수를 방지하고, 예외 처리를 통해 안정성을 확보했습니다. 또한 여러 로그 파일을 동시에 관리할 수 있는 유연한 구조를 제공합니다.
 
 이 구현은 실제 운영 환경에서 로그 시스템으로 활용할 수 있으며, 필요에 따라 기능을 확장할 수 있습니다.
+
+
+## 터미널 출력 값
+<img width="1036" height="246" alt="Num1" src="https://github.com/user-attachments/assets/182cfa8c-8780-48cf-b047-7d225c4f4143" />
+
+## 실행 영상
+https://github.com/user-attachments/assets/96416bd0-c1ef-4868-8bcc-67ed29509048
