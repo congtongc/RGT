@@ -68,3 +68,9 @@ CircularBuffer 클래스는 STL과 호환되는 반복자를 구현하여 표준
 
 ## 결론
 구현된 CircularBuffer 클래스는 고정된 크기의 메모리를 효율적으로 사용하면서 FIFO(First-In-First-Out) 방식으로 데이터를 관리합니다. STL 호환 반복자를 제공하여 표준 알고리즘과 함께 사용할 수 있으며, 센서 데이터 수집과 같이 최근 N개의 데이터만 유지해야 하는 상황에 적합합니다.
+
+## 터미널 출력
+<img width="1036" height="161" alt="Num2" src="https://github.com/user-attachments/assets/e7161c24-364e-4738-a18c-88fad6baee6d" />
+
+## 실행 영상
+https://github.com/user-attachments/assets/12dfd8a2-3c01-490b-b30e-2331306a320f
