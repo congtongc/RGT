@@ -247,7 +247,7 @@ int main() {
 이 구현은 실제 운영 환경에서 로그 시스템으로 활용할 수 있으며, 필요에 따라 기능을 확장할 수 있습니다.
 
 
-## 터미널 출력 값
+## 터미널 출력
 <img width="1036" height="246" alt="Num1" src="https://github.com/user-attachments/assets/182cfa8c-8780-48cf-b047-7d225c4f4143" />
 
 ## 실행 영상
